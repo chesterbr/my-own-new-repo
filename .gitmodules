@@ -1,0 +1,3 @@
+[submodule "my-test-gist"]
+	path = my-test-gist
+	url = https://gist.github.com/6d79370ff32ebf4c61dc82ef3fd16717.git
