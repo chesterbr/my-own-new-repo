@@ -1,0 +1,3 @@
+[submodule "absolute-other-owner"]
+	path = absolute-other-owner
+	url = https://github.com/rails/spring
