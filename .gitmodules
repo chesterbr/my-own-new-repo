@@ -4,3 +4,6 @@
 [submodule "absolute-mine"]
 	path = absolute-mine
 	url = https://github.com/chesterbr/ruby2600
+[submodule "absolute from other, 404"]
+	path = absolute from other, 404
+	url = https://github.com/chestergeo/dead-repo
