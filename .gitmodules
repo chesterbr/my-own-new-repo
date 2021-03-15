@@ -7,3 +7,6 @@
 [submodule "absolute from other, 404"]
 	path = absolute from other, 404
 	url = https://github.com/chestergeo/dead-repo
+[submodule "bogusrepo"]
+	path = bogusrepo
+	url = ../../bogususer23525235/bogusrepo
