@@ -1,3 +1,6 @@
 [submodule "absolute-other-owner"]
 	path = absolute-other-owner
 	url = https://github.com/rails/spring
+[submodule "absolute-mine"]
+	path = absolute-mine
+	url = https://github.com/chesterbr/ruby2600
