@@ -10,3 +10,6 @@
 [submodule "bogusrepo"]
 	path = bogusrepo
 	url = ../../bogususer23525235/bogusrepo
+[submodule "toronto-transit-time"]
+	path = toronto-transit-time
+	url = ../toronto-transit-time
