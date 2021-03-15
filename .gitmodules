@@ -13,3 +13,6 @@
 [submodule "toronto-transit-time"]
 	path = toronto-transit-time
 	url = ../toronto-transit-time
+[submodule "weatherman"]
+	path = weatherman
+	url = ../../jdpace/weatherman
